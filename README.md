@@ -1,6 +1,4 @@
-# kaizen
-
-Privacy Policy
+# Privacy Policy
 
 This Privacy Policy describes how the Kaizen app processes and protects your personal information. Please read this document to understand what information may be collected and how it is used.
 
